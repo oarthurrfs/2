@@ -25,3 +25,46 @@ h1{
     margin: auto;
     display: block;
 }
+
+#img-ab{
+margin: auto;
+display: block;    
+margin-block-start: 12px;
+}
+
+#img-home{
+    float: center;
+    width: 42%;
+    border: thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+
+}
+
+#img-cont{
+    margin: auto;
+    display: block;
+
+}
+
+#contact{
+    background-color: white
+    color: rgb(211, 187, 187);
+
+}
+
+#home{
+    background-color: white
+    color: rgb(211, 187, 187);
+}
+
+#aboutus{
+    background-color: white
+    color: rgb(211, 187, 187);
+}
+
+#img-home-top{
+    margin: auto;
+    display: block;
+    margin-block-start: 12px;
+}
